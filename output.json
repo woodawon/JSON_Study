@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "username": "dawon",
+  "email": "woodawon0602@gmail.com",
+  "address": {
+    "street": "Na gil",
+    "suite": "Sangildong304-6",
+    "city": "Seoul",
+    "zipcode": "05283-0101"
+  },
+  "admin": false,
+  "hobbies": null
+}
